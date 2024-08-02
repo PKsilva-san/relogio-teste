@@ -1,0 +1,24 @@
+body{
+    background-color: black;
+}
+header{
+ font: 24px normal italic;
+ text-align: center;
+ background-color: aliceblue;
+ margin: auto;
+ width: 500px;
+ border-radius: 10px;
+}
+div#a{
+    text-align: center;
+    font: 30px normal italic;
+    color: white;
+}
+footer{
+ background-color: white;
+ font: normal 20px;
+ text-align: center;
+ border-radius: 10px ;
+ width: 200px;
+ margin: auto;
+}
